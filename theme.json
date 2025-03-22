@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "settings": {
+    "layout": {
+      "contentSize": "800px",
+      "wideSize": "1200px"
+    },
+    "color": {
+      "palette": [
+        { "name": "কালো", "slug": "black", "color": "#000000" },
+        { "name": "সাদা", "slug": "white", "color": "#ffffff" },
+        { "name": "নীল", "slug": "blue", "color": "#21759b" },
+        { "name": "সবুজ", "slug": "green", "color": "#00d084" }
+      ]
+    }
+  },
+  "templateParts": [
+    {
+      "name": "header",
+      "title": "হেডার",
+      "area": "header"
+    },
+    {
+      "name": "footer",
+      "title": "ফুটার",
+      "area": "footer"
+    }
+  ]
+}

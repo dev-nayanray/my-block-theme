@@ -1,0 +1,16 @@
+{
+  "name": "my-block-theme",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "devDependencies": {
+    "@wordpress/browserslist-config": "^6.20.0",
+    "@wordpress/scripts": "^30.13.0"
+  },
+  "dependencies": {
+    "@wordpress/blocks": "^14.9.0",
+    "@wordpress/element": "^6.20.0"
+  }
+}
